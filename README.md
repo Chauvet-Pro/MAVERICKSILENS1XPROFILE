@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.0.1.2 - Maverick Silens 1x Profile](https://github.com/Chauvet-Pro/MAVERICKSILENS1XPROFILE/blob/e534cc8912023fd6bc756d5d45bad0ca022bd86d/Firmware/V1.0.1.2.zip)
+- Fixed IGMP issue
+
 [V1.0.1 - Maverick Silens 1X Profile](https://github.com/Chauvet-Pro/MAVERICKSILENS1XPROFILE/blob/12d5923604e38d8984eb6eb380f6089be35006a7/Firmware/V1.0.1_07-11-24.zip)
 - Released software version
   
