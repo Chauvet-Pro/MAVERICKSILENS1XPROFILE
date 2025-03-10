@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.0.3 - Maverick Silens 1x Profile](https://github.com/Chauvet-Pro/MAVERICKSILENS1XPROFILE/blob/main/Firmware/V1.0.3.zip)
+- Improved dimming performance
+
 [V1.0.1.2 - Maverick Silens 1x Profile](https://github.com/Chauvet-Pro/MAVERICKSILENS1XPROFILE/blob/e534cc8912023fd6bc756d5d45bad0ca022bd86d/Firmware/V1.0.1.2.zip)
 - Fixed IGMP issue
 
