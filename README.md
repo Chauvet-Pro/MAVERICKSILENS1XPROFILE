@@ -3,8 +3,8 @@
 ## Software Versions
 
 [V1.2.0 - Maverick Silens 1X Profile](https://github.com/Chauvet-Pro/MAVERICKSILENS1XPROFILE/blob/9746f0c6c8e0937a0fa7f8aa8a036bebcbcfa077/Firmware/V1.2.zip)
-- Updated pan/tilt speed channel to acceleration channel.
-- Updated fixture menu/display.
+- Updated pan/tilt speed channel to acceleration channel
+- Updated fixture menu/display
 
 [V1.0.3 - Maverick Silens 1x Profile](https://github.com/Chauvet-Pro/MAVERICKSILENS1XPROFILE/blob/main/Firmware/V1.0.3.zip)
 - Improved dimming performance
