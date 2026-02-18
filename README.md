@@ -1,4 +1,4 @@
-# Maverick Silens 1x Profile
+# Maverick Silens 1X Profile
 
 ## Software Versions
 
